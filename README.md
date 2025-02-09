@@ -1,1 +1,1 @@
-**This repository is associated with the article '[A Prototypical Metric Learning Approach for Open-Set Semantic Segmentation in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10669600)', published in *IEEE Transactions on Geoscience and Remote Sensing* (TGRS).**  
+## This repository is associated with the article '[A Prototypical Metric Learning Approach for Open-Set Semantic Segmentation in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10669600)', published in *IEEE Transactions on Geoscience and Remote Sensing* (TGRS).
